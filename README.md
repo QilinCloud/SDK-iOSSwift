@@ -11,7 +11,7 @@ This repository contains the SDK package for several Qilin.Cloud API Endpoints, 
 
 ## How to provide feedback
 
-Generally, bugs and feature requests for the API or docs should be [Github issue](https://github.com/QilinCloud/SDK-iOSSwift/issues/new). Everything else should be discussed here [API-Offer Discussion](https://github.com/QilinCloud/SDK-iOSSwift/discussions).
+Generally, bugs and feature requests for the API or docs should be [Github issue](https://github.com/QilinCloud/SDK-iOSSwift/issues/new). Everything else should be discussed here [SDK-iOSSwift Discussion](https://github.com/QilinCloud/SDK-iOSSwift/discussions).
 
 ## Legal
 
